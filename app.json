@@ -2,7 +2,7 @@
   "name": "Directus",
   "website": "https://directus.io/",
   "description": "An Instant App & API for your SQL Database.",
-  "repository": "https://github.com/directus/heroku",
+  "repository": "https://github.com/farmisen/heroku-directus-template",
   "logo": "https://raw.githubusercontent.com/directus-community/heroku-template/master/.github/logo.png",
   "keywords": [
     "directus",
